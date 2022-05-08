@@ -3,7 +3,7 @@
 ![CI](https://github.com/jmoratilla/asdf-envconsul/workflows/CI/badge.svg?branch=main)
 
 
-This is a [envconsul](https://github.com/sl1pm4t/envconsul) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+This is a [envconsul](https://github.com/hashicorp/envconsul) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
