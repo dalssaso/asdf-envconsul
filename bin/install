@@ -40,7 +40,7 @@ install() {
   curl -sL $download_url -o $tmp_bin_path
 
   echo "Extracting ${tmp_bin_path}"
-  unzip $tmp_bin_path -d $TMPDIR
+  unzip -o $tmp_bin_path -d $TMPDIR
 
   echo "Moving bin to ${bin_path}"
   cp $tmp_path $bin_path
